@@ -1,6 +1,6 @@
 # GRID ANALISYS
 
-![Screenshot](img/grid-analisys.png)
+![Screenshot](grid-analisys.png)
 
 Grid-Analisys ini adalah program berbasis text sebagai 
 alat bantu untuk Decision Support System. Berguna untuk menentukan
